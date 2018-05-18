@@ -5,5 +5,19 @@
     "searchStrings": [
       "Coinblockers https://coinblockers.com"
     ]
+  },
+  {
+    "poolName": "Coinotron",
+    "url": "https://www.coinotron.com",
+    "searchStrings": [
+      "Coinotron"
+    ]
+  },
+  {
+    "poolName": "Unknown Z-NOMP",
+    "url": "https://github.com/joshuayabut/z-nomp",
+    "searchStrings": [
+      "Z-NOMP!"
+    ]
   }
 ]
